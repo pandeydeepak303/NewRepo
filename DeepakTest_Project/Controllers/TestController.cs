@@ -32,10 +32,7 @@ namespace DeepakTest_Project.Controllers
             return _testService.CalculateCommission();
         }
 
-        public ApiResponse GetCommisiion1()
-        {
-            return _testService.CalculateCommission();
-        }
+       
 
 
     }
